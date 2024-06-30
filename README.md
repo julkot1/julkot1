@@ -2,9 +2,9 @@
 
 - 🎓 I'm a stutent at Politechnika Gdańska (informatics)
 
-- 🔭 I’m currently working on [Camel language](https://github.com/julkot1/StackCode)
+- 🔭 I’m currently working on [Rpn yet another language :)](https://github.com/julkot1/rpn-lang)
 
-- 🌱 I’m currently learning **Gatsby, Next.js**
+- 🌱 I’m currently learning **Go**
 
 - 📫 Contact with me **julian.kotlowski@gmail.com**
 

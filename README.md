@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Julian Kotłowski.</h1>
 
-- 🎓 I'm a stutent at Politechnika Gdańska (informatics)
+- 🎓 I'm a stutent at Politechnika Gdańska (informatics) 3rd year
 
 - 🔭 I’m currently working on ECG AI project
 
@@ -23,12 +23,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julkot1&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Frameworks:</h3>
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
 <h3 align="left">Using OS:</h3>
 
-[![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?logo=manjaro&logoColor=fff)](#)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
